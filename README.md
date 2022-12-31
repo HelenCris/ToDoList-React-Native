@@ -4,8 +4,8 @@
 This project was developed with the following technologies:
 
 - [React Native](https://reactnative.dev/)
-- [Typescript]()
-- [Styled Components]()
+- [Typescript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/docs/basics#react-native)
 
 ## :information_source: How To Use
 
